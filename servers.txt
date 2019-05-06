@@ -1,0 +1,8 @@
+servers
+[instances]
+instance-1
+instance-2
+
+[instances:vars]
+user_name=new_dev
+user_des="New developer"
